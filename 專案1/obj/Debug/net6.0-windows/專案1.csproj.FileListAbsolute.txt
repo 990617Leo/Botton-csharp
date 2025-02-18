@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\專案1\專案1\bin\Debug\net6.0-windows\專案1.exe
+C:\Users\User\Desktop\專案1\專案1\bin\Debug\net6.0-windows\專案1.deps.json
+C:\Users\User\Desktop\專案1\專案1\bin\Debug\net6.0-windows\專案1.runtimeconfig.json
+C:\Users\User\Desktop\專案1\專案1\bin\Debug\net6.0-windows\專案1.dll
+C:\Users\User\Desktop\專案1\專案1\bin\Debug\net6.0-windows\專案1.pdb
+C:\Users\User\Desktop\專案1\專案1\obj\Debug\net6.0-windows\專案1.Form1.resources
+C:\Users\User\Desktop\專案1\專案1\obj\Debug\net6.0-windows\專案1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\專案1\專案1\obj\Debug\net6.0-windows\專案1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\專案1\專案1\obj\Debug\net6.0-windows\專案1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\專案1\專案1\obj\Debug\net6.0-windows\專案1.AssemblyInfo.cs
+C:\Users\User\Desktop\專案1\專案1\obj\Debug\net6.0-windows\專案1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\專案1\專案1\obj\Debug\net6.0-windows\專案1.dll
+C:\Users\User\Desktop\專案1\專案1\obj\Debug\net6.0-windows\refint\專案1.dll
+C:\Users\User\Desktop\專案1\專案1\obj\Debug\net6.0-windows\專案1.pdb
+C:\Users\User\Desktop\專案1\專案1\obj\Debug\net6.0-windows\專案1.genruntimeconfig.cache
+C:\Users\User\Desktop\專案1\專案1\obj\Debug\net6.0-windows\ref\專案1.dll
